@@ -1,0 +1,24 @@
+.App h1 {
+    text-align: center;
+}
+
+.App .meals-wrapper .activity-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.App .meals-wrapper .activity-wrapper button {
+    margin-left: 20px;
+}
+
+.App .meals-wrapper .add {
+    display: flex;
+    align-items: flex-end;
+}
+
+.App .meals-wrapper .add .input-section {
+    margin-right: 20px;
+}
+
+
+/*# sourceMappingURL=App.css.map */
